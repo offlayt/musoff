@@ -1,0 +1,11 @@
+.env
+.cache
+*.session
+*.session-journal
+*.db
+*.db-journal
+musoff-tg-bot/ffmpeg.exe
+
+venv
+covers
+songs
